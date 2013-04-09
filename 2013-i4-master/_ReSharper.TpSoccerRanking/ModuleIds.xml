@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="563B35C8-45FE-4B32-AF21-17E95EEACB05" ModuleId="SoccerRankingLib" />
+  <Module PersistentId="A1B2ECBE-6E61-4D83-BCE2-1BC759AD406A" ModuleId="WpfFrenchChampionship" />
+  <Module PersistentId="CBAB5DEC-F6D7-4F3E-9340-BDECAA27091C" ModuleId="TpSoccerRanking" />
+</Modules>

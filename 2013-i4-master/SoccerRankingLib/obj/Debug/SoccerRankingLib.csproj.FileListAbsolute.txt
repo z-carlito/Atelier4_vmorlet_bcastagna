@@ -1,0 +1,10 @@
+C:\Users\Vincent\Documents\WORKSPACES\C#\Vincent_MORLET_atelier_4\2013-i4-master\SoccerRankingLib\bin\Debug\SoccerRankingLib.dll
+C:\Users\Vincent\Documents\WORKSPACES\C#\Vincent_MORLET_atelier_4\2013-i4-master\SoccerRankingLib\bin\Debug\SoccerRankingLib.pdb
+C:\Users\Vincent\Documents\WORKSPACES\C#\Vincent_MORLET_atelier_4\2013-i4-master\SoccerRankingLib\obj\Debug\SoccerRankingLib.dll
+C:\Users\Vincent\Documents\WORKSPACES\C#\Vincent_MORLET_atelier_4\2013-i4-master\SoccerRankingLib\obj\Debug\SoccerRankingLib.pdb
+C:\Users\Vincent\Documents\WORKSPACES\C#\Vincent_MORLET_atelier_4\2013-i4-master\SoccerRankingLib\obj\Debug\SoccerRankingLib.csprojResolveAssemblyReference.cache
+C:\Users\Vincent\Documents\WORKSPACES\C#\Vincent_MORLET_atelier_4_v2\Vincent_MORLET_atelier_4_v2\Vincent_MORLET_atelier_4\2013-i4-master\SoccerRankingLib\bin\Debug\SoccerRankingLib.dll
+C:\Users\Vincent\Documents\WORKSPACES\C#\Vincent_MORLET_atelier_4_v2\Vincent_MORLET_atelier_4_v2\Vincent_MORLET_atelier_4\2013-i4-master\SoccerRankingLib\bin\Debug\SoccerRankingLib.pdb
+C:\Users\Vincent\Documents\WORKSPACES\C#\Vincent_MORLET_atelier_4_v2\Vincent_MORLET_atelier_4_v2\Vincent_MORLET_atelier_4\2013-i4-master\SoccerRankingLib\obj\Debug\SoccerRankingLib.csprojResolveAssemblyReference.cache
+C:\Users\Vincent\Documents\WORKSPACES\C#\Vincent_MORLET_atelier_4_v2\Vincent_MORLET_atelier_4_v2\Vincent_MORLET_atelier_4\2013-i4-master\SoccerRankingLib\obj\Debug\SoccerRankingLib.dll
+C:\Users\Vincent\Documents\WORKSPACES\C#\Vincent_MORLET_atelier_4_v2\Vincent_MORLET_atelier_4_v2\Vincent_MORLET_atelier_4\2013-i4-master\SoccerRankingLib\obj\Debug\SoccerRankingLib.pdb
